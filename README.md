@@ -6,4 +6,4 @@ Acoustic and prosodic properties of the aligned excerpts (formant frequencies, p
 
 The notebook can be run in the linked Colab environment or on a local machine.
 
-For more information, see Coats (in review). 
+For more information, see Coats, Steven. (2023). <a href="https://doi.org/10.14618/1z5k-pb25">A pipeline for the large-scale acoustic analysis of streamed content</a>. In Louis Cotgrove, Laura Herzberg, Harald Lüngen, and Ines Pisetta (eds.), <i>Proceedings of the 10th International Conference on CMC and Social Media Corpora for the Humanities (CMC-Corpora 2023)</i>, 51–54. Mannheim: Leibniz-Institut für Deutsche Sprache.
