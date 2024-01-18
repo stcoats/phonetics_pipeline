@@ -1,5 +1,7 @@
 # phonetics_pipeline
 
+[![DOI](https://zenodo.org/badge/632816801.svg)](https://zenodo.org/doi/10.5281/zenodo.10528676)
+
 This notebook can be used to retrieve transcripts from YouTube videos, search in the transcripts for specific words and phrases, extract the audio corresponding to the searched-for utterance(s), and align the transcript excerpts with the audio. 
 
 Acoustic and prosodic properties of the aligned excerpts (formant frequencies, pitch, timing phenomenona,  etc.) can then be analyzed and visualized using Parselmouth-Praat.
